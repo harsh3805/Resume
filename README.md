@@ -4,7 +4,7 @@ This repository contains a GitHub Pages-ready resume website.
 
 ## Files
 
-- `index.html` - main resume website
+- `harsh.html` - main resume website
 - `resume.pdf` - downloadable PDF resume
 
 ## How to publish on GitHub Pages
